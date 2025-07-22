@@ -1,4 +1,4 @@
-# 📒 Python ContactBook 1
+# 📒 Python ContactBook 
 
 A simple and user-friendly **Contact Book** built using Python. This console-based application allows users to manage contacts by adding, viewing, updating, searching, and deleting entries. It's a great beginner-level project to understand file handling, functions, and basic data structures in Python.
 
@@ -45,7 +45,7 @@ contact_book/
    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 📇 Python with SQL Db Contactbook 2 
+# 📇 Python with SQL Db Contactbook  
 A robust **Contact Book** application built using **Python** and **SQL** (SQLite/MySQL/PostgreSQL). This project allows users to perform CRUD (Create, Read, Update, Delete) operations on contacts stored in a relational database. It’s ideal for learning database integration with Python and practicing SQL queries in real-world scenarios.
 
 ## 📌 Features
